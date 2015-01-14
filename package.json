@@ -1,0 +1,10 @@
+{
+  "name": "simple-test",
+  "private": true,
+  "version": "0.0.1",
+  "description": "full stack NodeJs example includes AngularJS, MongoDB",
+  "author": "CodeFresh IO",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
