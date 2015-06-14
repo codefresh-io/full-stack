@@ -5,9 +5,12 @@
   "description": "full stack NodeJs example includes AngularJS, MongoDB",
   "author": "CodeFresh IO",
   "dependencies": {
-    "express": "3.2.4"
+    "express": "3.2.4",
+    "lodash": "^3.9.3",
+    "optimist": "^0.6.1",
+    "underscore": "^1.8.3"
   },
   "scripts": {
-  	"start": "node app.js"
+    "start": "node app.js"
   }
 }
