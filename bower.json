@@ -1,0 +1,20 @@
+{
+  "name": "full-stack",
+  "version": "0.0.0",
+  "homepage": "https://github.com/codefresh-io/full-stack",
+  "authors": [
+    "grunzwei-fresh <nathan@codefresh.io>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "sass-bootstrap": "~3.0.0",
+    "modernizr": "~2.6.2"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
