@@ -8,7 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "sass-bootstrap": "~3.0.0",
-    "modernizr": "~2.6.2"
+    "jquery": "~2.1.4"
   },
   "ignore": [
     "**/.*",
